@@ -1,0 +1,38 @@
+{
+  "menu1": [
+    {
+      "title": "Homepage",
+      "link": "/"
+    },
+    {
+      "title": "Generator",
+      "link": "/generator"
+    },
+    {
+      "title": "Pricing Plan",
+      "link": "/pricing-plan"
+    },
+    {
+      "title": "Blog News",
+      "link": "/blog-news"
+    }
+  ],
+  "menu2": [
+    {
+      "title": "About",
+      "link": "/about"
+    },
+    {
+      "title": "Features",
+      "link": "/features"
+    },
+    {
+      "title": "Collection",
+      "link": "/collection"
+    },
+    {
+      "title": "Career",
+      "link": "/career"
+    }
+  ]
+}
